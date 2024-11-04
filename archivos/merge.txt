@@ -1,0 +1,1 @@
+la carpeta archivos solo registrada en el servidor cuando tenia un archivo adentro
