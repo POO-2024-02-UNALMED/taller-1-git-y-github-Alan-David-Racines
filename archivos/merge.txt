@@ -1,3 +1,6 @@
 Alan David Racines Casierra
 21 años 
 Mis aspiraciones con la materia es desarrollar la capacidad de manejar y plasmar proyectos desde cero programando
+la carpeta archivos solo registrada en el servidor cuando tenia un archivo adentro
+
+es importante tener cuidado al modificar un archivo en diferentes ubicaciones por que el no hacerlo genera conflitos y problemas de compatibilidad entre las versiones del mismo 
